@@ -1,2 +1,4 @@
 # cs231n_assignments
-These are my study notes and assignments for the CS231n course.
+
+cs231n:https://cs231n.stanford.edu/index.html
+assignments:https://cs231n.stanford.edu/assignments.html
